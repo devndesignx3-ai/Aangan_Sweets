@@ -1,0 +1,6 @@
+{
+  "name": "Aangan Sweets",
+  "description": "A luxury handcrafted Indian sweets, savory chaats and catering platform featuring an interactive 3D virtual display carousel and a customized gift box packing simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

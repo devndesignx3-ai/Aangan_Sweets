@@ -198,7 +198,7 @@ export default function App() {
               </span>
 
               <h1 className="text-4xl md:text-6xl font-serif font-black text-amber-950 leading-tight tracking-tight">
-                Traditional Indian Confections, Refined.
+                Aangan Sweets
               </h1>
 
               <p className="text-stone-600 text-sm md:text-base leading-relaxed max-w-xl mx-auto lg:mx-0">
@@ -247,17 +247,7 @@ export default function App() {
                   referrerPolicy="no-referrer"
                 />
                 
-                {/* Micro reflection banner details */}
-                <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent z-10"></div>
-                <div className="absolute bottom-6 left-6 right-6 z-20 flex items-center justify-between text-white">
-                  <div>
-                    <span className="text-[10px] font-mono text-amber-400 uppercase tracking-widest block font-bold">Featured Dish</span>
-                    <span className="font-serif text-lg font-bold">The Imperial Aangan Mithai Platter</span>
-                  </div>
-                  <span className="bg-amber-500/20 text-yellow-400 font-mono text-xs px-2.5 py-1 rounded bg-black/50 border border-amber-500/30">
-                    ✧ Royal Signature
-                  </span>
-                </div>
+                {/* Clean image container */}
               </div>
 
               {/* Floating absolute badges */}
@@ -272,7 +262,7 @@ export default function App() {
               <div className="absolute -bottom-6 -right-4 z-25 bg-[#1e1b18] text-white border border-stone-850 p-3 rounded-2xl shadow-lg flex items-center gap-2.5 max-w-[140px]">
                 <span className="text-2xl animate-spin">✴</span>
                 <div className="leading-tight">
-                  <span className="text-[9px] font-mono text-amber-400 block">Imperial Platter</span>
+                  <span className="text-[9px] font-mono text-amber-400 block font-bold">Aangan Art</span>
                   <span className="text-xs font-serif font-bold text-amber-50">3D Showroom</span>
                 </div>
               </div>
